@@ -1,0 +1,1 @@
+java -jar Tee-1.0-SNAPSHOT.jar
